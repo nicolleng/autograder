@@ -6,4 +6,5 @@ This small software project was submitted as a college assignment.
 Contents:
 autograder_main.py
 CNN_model.py
-example images
+model.h5
+model.json
